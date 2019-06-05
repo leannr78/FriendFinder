@@ -4,7 +4,7 @@ This match making application will help you find the long lost friend you didn't
 
 ## [Try it out](https://still-bayou-68375.herokuapp.com/)
 
-![image](./app/public/FriendFinder.png)
+![image](./app/public/FriendFinder.PNG)
 
 ## Installing
 
