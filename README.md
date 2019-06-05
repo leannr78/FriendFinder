@@ -38,7 +38,7 @@ $ node server.js
 * [Bootstrap](https://getbootstrap.com/) - CSS framework
 
 ## Authors
-See contribution history [here](https://github.com/jckmrrssy/FriendFinder/graphs/contributors)
+See contribution history [here](https://github.com/leannr78/FriendFinder/graphs/contributors)
 
 ## Future Updates
 At the moment, the app will check your survey results against a seed file with results from various fake "friends." In the future, I would like to add in a database in order to have users match against one another instead of the seed file. 
